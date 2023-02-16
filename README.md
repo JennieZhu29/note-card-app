@@ -1,3 +1,8 @@
+##Note-card-app
+<img width="1285" alt="Screenshot 2023-02-16 at 17 14 36" src="https://user-images.githubusercontent.com/37766866/219286437-5bf247d5-afa6-4242-a104-7880e90b7356.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
